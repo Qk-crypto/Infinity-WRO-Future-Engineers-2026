@@ -6,6 +6,11 @@ This repository contains the current documentation package for **Team Infinity**
 
 ---
 
+<p align="center">
+   <img src="team-photos/our team.jpg" alt="Team photo" width="500">
+</p>
+
+
 ## Team Information
 
 - **Team name:** Infinity
